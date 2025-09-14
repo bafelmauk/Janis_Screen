@@ -1,0 +1,72 @@
+[type="segment_G0"] {
+  color: #FF0000;
+}
+[type="segment_G1"] {
+  color: #26ff4a;
+}
+[type="segment_G2_G3"] {
+  color: #00FFFF;
+}
+[type="segment_G32"] {
+  color: #BA00FF;
+}
+[type="segment_optymalisation"] {
+  color: #FF9900;
+}
+[type="segment_connect"] {
+  color: #E5E5E5;
+}
+[type="segment_rotate"] {
+  color: #FFFF00;
+}
+[type="segment_synch_io"] {
+  color: #4C99ff;
+}
+[type="segment_empty"] {
+  color: #990033;
+}
+[type="axis_X"] {
+  color: #ff0000;
+}
+[type="axis_Y"] {
+  color: #0000ff;
+}
+[type="axis_Z"] {
+  color: #ffff00;
+}
+[type="wo_axis_X"] {
+  color: #7F7F7F;
+}
+[type="wo_axis_Y"] {
+  color: #7F7F7F;
+}
+[type="wo_axis_Z"] {
+  color: #7F7F7F;
+}
+[type="axes_letters"] {
+  color: #ffffff;
+}
+[type="path_view_background"] {
+  color: #2D2D41;
+}
+[type="tool_length_visualisation"] {
+  color: #ff99ff;
+}
+[type="tool_cross"] {
+  color: #ffffff;
+}
+[type="tangential_tool"] {
+  color: #FF0000;
+}
+[type="soft_limit"] {
+  color: #9BE8D6;
+}
+[type="gcode_axis_X"] {
+  color: #FF0000;
+}
+[type="gcode_axis_Y"] {
+  color: #FF00FF;
+}
+[type="gcode_axis_Z"] {
+  color: #0000FF;
+}

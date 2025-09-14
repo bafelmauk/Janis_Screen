@@ -1,0 +1,6 @@
+d.setAxisProgPosition( Axis.X, 0 )
+d.setAxisProgPosition( Axis.Y, 0 )
+d.setAxisProgPosition( Axis.Z, 0 )
+d.setAxisProgPosition( Axis.A, 0 )
+d.setAxisProgPosition( Axis.B, 0 )
+d.setAxisProgPosition( Axis.C, 0 )
