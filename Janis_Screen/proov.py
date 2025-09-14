@@ -1,0 +1,1 @@
+print (d.getCurrentWorkOffset()[Axis.Z.value])
