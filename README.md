@@ -24,8 +24,13 @@ It modifies the default interface to better suit my workflow, but others might a
 > Movements may be unexpected depending on machine configuration or custom code.  
 > Always monitor the machine closely when using these functions, and proceed with caution to avoid collisions or damage.
 
+
 ## Preview
 ![Screen Preview](Screenshot_1.PNG)
+
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/-KXnHEx6aKk/0.jpg)](https://www.youtube.com/watch?v=-KXnHEx6aKk)
+
 
 ## Author
 - **DIY - Bros.**
@@ -33,6 +38,7 @@ It modifies the default interface to better suit my workflow, but others might a
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it.
+
 
 
 
