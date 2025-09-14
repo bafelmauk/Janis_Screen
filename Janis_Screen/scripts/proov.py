@@ -1,1 +1,0 @@
-d.setMachineParam( 9005, 1000 )
