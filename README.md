@@ -1,4 +1,4 @@
-# SimCNC Janis_Screen
+# SimCNC Janis Screen
 
 This is a **Janis_Screen for SimCNC**, designed and created by me.  
 It modifies the default interface to better suit my workflow, but others might also find it useful.
@@ -33,6 +33,7 @@ It modifies the default interface to better suit my workflow, but others might a
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it.
+
 
 
 
