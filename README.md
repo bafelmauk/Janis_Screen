@@ -26,8 +26,8 @@ It modifies the default interface to better suit my workflow, but others might a
 
 ## Author
 - **DIY - Bros.**
-- Contact (optional)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it.
+
