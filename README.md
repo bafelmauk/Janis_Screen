@@ -20,8 +20,6 @@ It modifies the default interface to better suit my workflow, but others might a
 - Easy to extend and modify
 
 ## Preview
-(Insert a screenshot of your screen here for quick reference.)
-
 ![Screen Preview](Screenshot_1.PNG)
 
 ## Author
@@ -30,4 +28,5 @@ It modifies the default interface to better suit my workflow, but others might a
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it.
+
 
