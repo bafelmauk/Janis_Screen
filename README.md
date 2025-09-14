@@ -3,11 +3,6 @@
 This is a **Janis_Screen for SimCNC**, designed and created by me.  
 It modifies the default interface to better suit my workflow, but others might also find it useful.
 
-> ⚠️ **Safety Notice**  
-> This screen includes probing and tool length measurement features that can cause the machine to move automatically.  
-> Movements may be unexpected depending on machine configuration or custom code.  
-> Always monitor the machine closely when using these functions, and proceed with caution to avoid collisions or damage.
-
 - **Probing functions** for accurate workpiece alignment
 - **Tool length measurement** for automatic and precise tool calibration
 
@@ -24,6 +19,11 @@ It modifies the default interface to better suit my workflow, but others might a
 - Built-in tool length measurement
 - Easy to extend and modify
 
+> ⚠️ **Safety Notice**  
+> This screen includes probing and tool length measurement features that can cause the machine to move automatically.  
+> Movements may be unexpected depending on machine configuration or custom code.  
+> Always monitor the machine closely when using these functions, and proceed with caution to avoid collisions or damage.
+
 ## Preview
 ![Screen Preview](Screenshot_1.PNG)
 
@@ -33,6 +33,7 @@ It modifies the default interface to better suit my workflow, but others might a
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it.
+
 
 
 
